@@ -1,0 +1,302 @@
+    //   articles= [
+        
+    //     {
+            
+    //         "source": {
+    //             "id": "cnn",
+    //             "name": "CNN"
+    //         },
+    //         "author": "Katherine Dillinger, CNN",
+    //         "title": "CDC recommends Pfizer/BioNTech Covid-19 vaccine boosters for children as young as 12 - CNN",
+    //         "description": "The US Centers for Disease Control and Prevention updated its recommendations for the Pfizer/BioNTech Covid-19 vaccine booster on Wednesday to include children as young as 12, at least five months after they finish the primary vaccine series.",
+    //         "url": "https://www.cnn.com/2022/01/05/health/cdc-acip-pfizer-covid-vaccine-boosters-adolescents/index.html",
+    //         "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220105143231-02-pfizer-booster-120221-super-tease.jpg",
+    //         "publishedAt": "2022-01-06T02:23:00Z",
+    //         "content": "(CNN)The US Centers for Disease Control and Prevention updated its recommendations for the Pfizer/BioNTech Covid-19 vaccine booster on Wednesday to include children as young as 12, at least five mont… [+3790 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": "google-news",
+    //             "name": "Google News"
+    //         },
+    //         "author": null,
+    //         "title": "Dow Jones Futures: Hawkish Fed Stuns Wall Street; Tesla, Microsoft, Google Break Key Levels - Investor's Business Daily",
+    //         "description": null,
+    //         "url": "https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtaGF3a2lzaC1mZWQtc2xhbXMtbWFya2V0LXJhbGx5LXRlc2xhLW1pY3Jvc29mdC1nb29nbGUtYnJlYWsta2V5LWxldmVscy_SAQA?oc=5",
+    //         "urlToImage": null,
+    //         "publishedAt": "2022-01-06T01:50:00Z",
+    //         "content": null
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "SciTechDaily"
+    //         },
+    //         "author": null,
+    //         "title": "James Webb Space Telescope Successfully Deploys Secondary Mirror – “Another Banner Day for JWST!” - SciTechDaily",
+    //         "description": "Today, Webb teams successfully deployed the observatory’s secondary mirror support structure. When light from the distant universe hits Webb’s iconic 18 gold primary mirrors, it will reflect off and hit the smaller, 2.4-foot (.74-meter) secondary mirror, whic…",
+    //         "url": "https://scitechdaily.com/james-webb-space-telescope-successfully-deploys-secondary-mirror-another-banner-day-for-jwst/",
+    //         "urlToImage": "https://scitechdaily.com/images/Webb-Space-Telescope-Secondary-Mirror-Deployment.gif",
+    //         "publishedAt": "2022-01-06T01:32:42Z",
+    //         "content": "ByNASAJanuary 5, 2022\r\nWebb Space Telescope Secondary Mirror deployment. Credit: NASA’s Goddard Space Flight Center Conceptual Image Lab\r\nToday, Webb teams successfully deployed the observatory’s sec… [+2440 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "Los Angeles Times"
+    //         },
+    //         "author": "Luke Money, Rong-Gong Lin II",
+    //         "title": "California extends indoor mask mandate as Omicron surges - Los Angeles Times",
+    //         "description": "California will extend its statewide mask mandate for indoor public spaces for another month as an unprecedented wave of coronavirus infections continues to wash over the state.",
+    //         "url": "https://www.latimes.com/california/story/2022-01-05/california-extends-indoor-mask-mandate-as-omicron-surges",
+    //         "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/04c67e4/2147483647/strip/true/crop/5760x3024+0+408/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2Fa1%2Fae71eb3c49848fe36c91e9b4b1e1%2Fla-photos-1staff-896119-me-0104-lausd-negative-test-required-gem-018.jpg",
+    //         "publishedAt": "2022-01-06T01:14:50Z",
+    //         "content": "California will extend its mask mandate for indoor public spaces for another month as an unprecedented wave of coronavirus infections spawned by the highly transmissible Omicron variant continues to … [+9444 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "CNBC"
+    //         },
+    //         "author": "Kevin Stankiewicz",
+    //         "title": "Cramer: Charts suggest inflation may cool down faster than expected, boosting stocks in 2022 - CNBC",
+    //         "description": "Longtime technician Larry Williams believes the stock market may have a stronger 2022 than many Wall Street forecasts, CNBC's Jim Cramer said Wednesday.",
+    //         "url": "https://www.cnbc.com/2022/01/05/jim-cramer-charts-suggest-inflation-may-cool-down-faster-than-expected.html",
+    //         "urlToImage": "https://image.cnbcfm.com/api/v1/image/106779215-1604512335360NYSE-Trading-Floor-OB-Photo-201104-PRESS6-JPG?v=1604512384",
+    //         "publishedAt": "2022-01-06T00:55:00Z",
+    //         "content": "Longtime technician Larry Williams believes the stock market may have a stronger 2022 than many Wall Street forecasts, CNBC's Jim Cramer said Wednesday. \r\n\"The charts, as interpreted by the legendary… [+2689 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "YouTube"
+    //         },
+    //         "author": null,
+    //         "title": "Kyrie Irving Makes Nets Season Debut - Bleacher Report",
+    //         "description": "Kyrie is BACK after missing the first 35 games for the Nets. Subscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation=1Follow on IG: http://ww...",
+    //         "url": "https://www.youtube.com/watch?v=IkRZsf5wY-w",
+    //         "urlToImage": "https://i.ytimg.com/vi/IkRZsf5wY-w/hqdefault.jpg",
+    //         "publishedAt": "2022-01-06T00:52:46Z",
+    //         "content": null
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": "cnn",
+    //             "name": "CNN"
+    //         },
+    //         "author": "Rob Picheta, Anna Chernova, Radina Gigova and Ivan Watson, CNN",
+    //         "title": "Emergency declared in Kazakhstan as fuel protests rage and government resigns - CNN",
+    //         "description": "Unrest broke out in cities across Kazakhstan on Wednesday, as thousands angrily protested a sharp fuel price hike that sparked the resignation of the Central Asian country's government.",
+    //         "url": "https://www.cnn.com/2022/01/05/asia/kazakhstan-fuel-protests-emergency-wednesday-intl/index.html",
+    //         "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220104213301-05-kazakhstan-protest-emergency-010522-super-tease.jpg",
+    //         "publishedAt": "2022-01-06T00:45:00Z",
+    //         "content": null
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "Cbslocal.com"
+    //         },
+    //         "author": "CBSLA Staff",
+    //         "title": "LA’s First Reported Case Of Flurona Detected At COVID Testing Site Near Getty Center - CBS Los Angeles",
+    //         "description": "The patient was described only as a teenager with mild symptoms who tested positive for both flu and COVID.",
+    //         "url": "https://losangeles.cbslocal.com/2022/01/05/la-first-case-flurona-detected-getty-center-covid-testing-site/",
+    //         "urlToImage": "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2022/01/flurona.jpg?w=1000",
+    //         "publishedAt": "2022-01-06T00:28:00Z",
+    //         "content": "LOS ANGELES (CBSLA) The first reported case of flurona having both influenza and coronavirus at the same time has been detected at the COVID-19 testing center across the street from the Getty Center.… [+3156 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "Deadline"
+    //         },
+    //         "author": "Rosy Cordero",
+    //         "title": "‘And Just Like That…’ Chris Noth Cut From Season 1 Finale - Deadline",
+    //         "description": "Chris Noth‘s surprise appearance in And Just Like That‘s finale airing on Feb. 3 has been scrapped, a source has confirmed to Deadline. The scrubbing is the latest fallout for Noth following accusations of sexual assault were made against the actor by multipl…",
+    //         "url": "https://deadline.com/2022/01/and-just-like-that-chris-noth-removed-hbo-max-season-1-finale-1234905053/",
+    //         "urlToImage": "https://deadline.com/wp-content/uploads/2022/01/chris-noth-sarah-jessica-parker.jpg?w=640",
+    //         "publishedAt": "2022-01-06T00:22:00Z",
+    //         "content": "Chris Noth‘s surprise appearance in And Just Like That‘s finale airing on Feb. 3 has been scrapped, a source has confirmed to Deadline. The scrubbing is the latest fallout for Noth following accusati… [+967 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "Page Six"
+    //         },
+    //         "author": "Alex Heigl",
+    //         "title": "Corey Gamble shows off Tristan Thompson jersey amid paternity scandal - Page Six",
+    //         "description": "The 41-year-old Gamble was snapped outside of the arena after Thompson’s Sacramento Kings matchup against the Los Angeles Lakers, which the Kings lost 114-122.",
+    //         "url": "https://pagesix.com/2022/01/05/corey-gamble-shows-off-tristan-thompson-jersey-amid-paternity-scandal/",
+    //         "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/01/corey-comp.jpg?quality=90&strip=all&w=1200",
+    //         "publishedAt": "2022-01-06T00:02:00Z",
+    //         "content": "That was Jenner-ous of him.\r\nKris Jenner’s boyfriend, Corey Gamble, made a surprising show of support for Tristan Thompson Tuesday, holding up the NBA player’s No. 13 jersey for paparazzi in LA.\r\nThe… [+2607 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "New York Times"
+    //         },
+    //         "author": "Rebecca Davis O’Brien, Benjamin Weiser",
+    //         "title": "Ghislaine Maxwell Verdict Is Clouded by Juror Disclosure - The New York Times",
+    //         "description": "The revelation, which the juror said figured in the deliberations at Ghislaine Maxwell’s trial, led prosecutors to seek an inquiry and the defense to call for a new trial.",
+    //         "url": "https://www.nytimes.com/2022/01/05/nyregion/maxwell-trial-jury-inquiry.html",
+    //         "urlToImage": "https://static01.nyt.com/images/2022/01/05/nyregion/Jurors/Jurors-facebookJumbo.jpg",
+    //         "publishedAt": "2022-01-05T23:46:28Z",
+    //         "content": "In their letter, federal prosecutors asked the judge in the case, Alison J. Nathan, to schedule a hearing on the matter in about a month, adding that any juror investigation should be conducted exclu… [+1607 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": "fox-news",
+    //             "name": "Fox News"
+    //         },
+    //         "author": "Daniel Canova",
+    //         "title": "Packers' Aaron Rodgers blasts MVP voter following controversial comments: 'He's an absolute bum' - Fox News",
+    //         "description": "Aaron Rodgers didn’t hold back a day after an NFL reporter made controversial comments regarding voting for the Green Bay Packers quarterback for the league MVP award.",
+    //         "url": "https://www.foxnews.com/sports/packers-aaron-rodgers-blasts-mvp-voter-absolute-bum",
+    //         "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Aaron-Rodgers5.jpg",
+    //         "publishedAt": "2022-01-05T23:21:33Z",
+    //         "content": "Aaron Rodgers didnt hold back a day after an NFL reporter made controversial comments regarding voting for the Green Bay Packers quarterback for the league MVP award.\r\nAccording to ProFootballTalk, H… [+3328 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": "polygon",
+    //             "name": "Polygon"
+    //         },
+    //         "author": "Austen Goslin",
+    //         "title": "Book of Boba Fett episode 2 has a black wookiee and other familiar faces - Polygon",
+    //         "description": "The Book of Boba Fett episode two features a black-furred Wookiee, two new Hutts who have come to reclaim Tatooine, and some of Luke’s oldest friends.",
+    //         "url": "https://www.polygon.com/star-wars/22869274/book-of-boba-fett-black-krrsantan-wookiee-camie-fixer",
+    //         "urlToImage": "https://cdn.vox-cdn.com/thumbor/h-y_hNMUqHiHKMfjNPEo64VW4Fo=/0x0:1800x942/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22887503/boba.jpg",
+    //         "publishedAt": "2022-01-05T23:15:00Z",
+    //         "content": "The Book of Boba Fetts second episode dragged the bounty hunter-turned crime lord further into the sands of Tatooine and the planets seedy underbelly. But while Boba Fett got his hands a little dirti… [+3207 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "Chicago Tribune"
+    //         },
+    //         "author": "Tracy Swartz",
+    //         "title": "Chicago Public Schools deadlock with teachers continues - Chicago Tribune",
+    //         "description": "Chicago Public Schools has canceled classes again Thursday, CPS CEO Pedro Martinez told Univision Chicago Wednesday.",
+    //         "url": "https://www.chicagotribune.com/news/breaking/ct-chicago-public-schools-class-cancel-covid-chicago-teachers-union-20220105-xnlsdz5vobafdao5n5cnqnhexq-story.html",
+    //         "urlToImage": "https://www.chicagotribune.com/resizer/ibks3HcPO4eMXh2NXiPoIXhrQO8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DATKHYLUKVGUXI5BKOBTLWYHTY.jpg",
+    //         "publishedAt": "2022-01-05T23:09:00Z",
+    //         "content": "Parents had been left in limbo again about the fate of classroom instruction as the district and the Chicago Teachers Union continued negotiations Wednesday over enhanced COVID-19 safety measures, wh… [+6520 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "New York Times"
+    //         },
+    //         "author": "Norimitsu Onishi",
+    //         "title": "Using Harsh Language, Macron Issues a Challenge to the Unvaccinated - The New York Times",
+    //         "description": "The French president was seeking to tap into a rich political vein: anger among the majority of vaccinated people at a minority who refuse to get vaccinated and disproportionately occupy hospital beds.",
+    //         "url": "https://www.nytimes.com/2022/01/05/world/europe/macron-france-unvaccinated.html",
+    //         "urlToImage": "https://static01.nyt.com/images/2022/01/05/world/05virus-france/05virus-france-facebookJumbo.jpg",
+    //         "publishedAt": "2022-01-05T23:07:44Z",
+    //         "content": "Mr. Macron said the unvaccinated were a rebellious minority whose numbers he planned to shrink by pissing them off.\r\nIn democracy, the worst enemies are lies and stupidity, he said.\r\nMr. Macron appea… [+899 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "FOX 31 Denver"
+    //         },
+    //         "author": "Colleen Flynn",
+    //         "title": "Human remains found in Marshall Fire area - FOX 31 Denver",
+    //         "description": "The Boulder County Sheriff’s Office said partial remains have been located in the Marshall Fire burn area.",
+    //         "url": "https://kdvr.com/news/local/human-remains-found-in-unincorporated-boulder-county/",
+    //         "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2022/01/AP22004014132476.jpg?w=1280",
+    //         "publishedAt": "2022-01-05T22:51:52Z",
+    //         "content": "LOVELAND, Colo. (KDVR) In a new report, a consulting firm found that the Loveland Police Department should increase transparency, enhance the citizen complaint process and update its use-of-force pol… [+423 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "Notebookcheck.net"
+    //         },
+    //         "author": "Vaidyanathan Subramaniam",
+    //         "title": "Lenovo ThinkBook Plus Gen 3 aims to double your productivity with an industry-first 17.3-inch 21:10 3K panel and secondary touchscreen - Notebookcheck.net",
+    //         "description": "Lenovo is introducing a redesigned ThinkBook Plus Gen 3 at CES 2022. The new ThinkBook Plus Gen 3 now features 12th gen Alder Lake processors, an industry-first 21:10 17.3-inch ultra-wide 3K primary display, and an 8-inch secondary display that supports pen i…",
+    //         "url": "https://www.notebookcheck.net/Lenovo-ThinkBook-Plus-Gen-3-aims-to-double-your-productivity-with-an-industry-first-17-3-inch-21-10-3K-panel-and-secondary-touchscreen.586143.0.html",
+    //         "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/14_ThinkBook_Plus_Gen_3_Hero_Front_Facing.png",
+    //         "publishedAt": "2022-01-05T22:43:01Z",
+    //         "content": "Working For Notebookcheck\r\nAre you a techie who knows how to write? Then join our Team! English native speakers welcome! \r\nNews Writer (AUS/NZL based) - Details here\r\nLenovo has a few tricks up its s… [+1637 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "New York Times"
+    //         },
+    //         "author": "Mike Baker",
+    //         "title": "The Boy Scouts’ $2.7 Billion Settlement Plan Is at Risk of Failing - The New York Times",
+    //         "description": "Of the tens of thousands of victims of sexual abuse who voted on a settlement plan, 73 percent supported it, just below a critical threshold of 75 percent.",
+    //         "url": "https://www.nytimes.com/2022/01/05/us/boy-scouts-settlement.html",
+    //         "urlToImage": "https://static01.nyt.com/images/2022/01/05/us/05scouts/05scouts-facebookJumbo.jpg",
+    //         "publishedAt": "2022-01-05T22:22:06Z",
+    //         "content": "Doug Kennedy, a victim of Boy Scouts abuse who is co-chair of the bankruptcys official Tort Claimants Committee, said in an interview that the vote made clear survivors were not comfortable with the … [+1307 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "WPVI-TV"
+    //         },
+    //         "author": "Walter Perez, Gray Hall, Chad Pradelli, Katherine Scott",
+    //         "title": "Philadelphia fire: 13 people dead, including 7 children, after duplex fire in Fairmount section - WPVI-TV",
+    //         "description": "The Philadelphia Fire Department says seven children are among at least 13 dead after a duplex fire.",
+    //         "url": "https://6abc.com/philadelphia-fire-fairmount-row-home-ogden-street-23rd/11428039/",
+    //         "urlToImage": "https://cdn.abcotvs.com/dip/images/11429513_010521-wpvi-fairmount-fire-WPE-4pm-video-CC-vid.jpg?w=1600",
+    //         "publishedAt": "2022-01-05T22:15:17Z",
+    //         "content": "PHILADELPHIA (WPVI) -- The Philadelphia Fire Department says seven children are among at least 13 dead after a house fire erupted in the Fairmount section of the city on Wednesday morning, the deadli… [+6622 chars]"
+    //     },
+        
+    //     {
+            
+    //         "source": {
+    //             "id": null,
+    //             "name": "Cbslocal.com"
+    //         },
+    //         "author": "CBSBoston.com Staff",
+    //         "title": "Father Arrested In Connection With Missing Manchester, NH 7-Year-Old Harmony Montgomery - CBS Boston",
+    //         "description": "Adam Montgomery, the father of missing 7-year-old Manchester, New Hampshire girl Harmony Montgomery, is now facing several charges as investigators released new information in the case Wednesday.",
+    //         "url": "https://boston.cbslocal.com/2022/01/05/harmony-montgomery-missing-manchester-new-hampshire-father-arrest-adam-montgomery/",
+    //         "urlToImage": "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2022/01/adam-harmony-montgomery.jpg?w=1024",
+    //         "publishedAt": "2022-01-05T22:13:00Z",
+    //         "content": "MANCHESTER, N.H. (CBS) – Adam Montgomery, the father of missing 7-year-old Manchester, New Hampshire girl Harmony Montgomery, is now facing several charges as investigators released new information i… [+4263 chars]"
+    //     }
+    // ]
